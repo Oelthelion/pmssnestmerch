@@ -52,16 +52,6 @@ body {
         }
     }
 
-    .box1{
-            box-sizing: border-box;
-            border: 1px solid #ffffff;
-            background-color: #ffffff;
-            width: absolute;
-            width: 2400px;
-            height: 1800px;
-
- }
  map {
     display: inline;
-    
  }
