@@ -50,27 +50,11 @@ body {
             display: block;
             text-align: left;
         }
-    }
-<<<<<<< HEAD
 
  map {
     display: inline;
  }
-=======
-    .box1{
-            box-sizing: border-box;
-            border: 1px solid #ffffff;
-            background-color: #ffffff;
-            width: 750px;
-            height: 1800px;
 
- }   
- map {
-    display: inline;
-    
- }
  img {
-    border: 1px solid #000000
+    border: 1px solid #000000;
  }
- 
->>>>>>> 2c001c5fa9d9a2b4e556fa74c6f3dffcea48384a
