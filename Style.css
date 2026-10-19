@@ -1,6 +1,6 @@
 body {
 font-family: JetBrains Mono, sans-serif;
- background-color: #2b59a3cc;
+ background-color: #2b5ba9cc;
  box-sizing: border-box;
         margin: 0;
         font-family: JetBrains Mono, sans-serif;
@@ -8,13 +8,13 @@ font-family: JetBrains Mono, sans-serif;
 
     .navbar {
         overflow: hidden;
-        background-color:#394b51f7
+        background-color:#2f4f5cf7
     }
 
     .navbar a {
         float: left;
         display: block;
-        color: rgb(202, 239, 248);
+        color: rgb(59, 101, 111);
         text-align: center;
         padding: 14px 20px;
         text-decoration: none;

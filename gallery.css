@@ -1,15 +1,15 @@
 body {
-    background-color:rgb(252, 252, 252);
+    background-color:#2b59a3cc;
 }
 .navbar {
         overflow: hidden;
-        background-color:#f5f9faf7
+        background-color:#394b51f7
     }
 
     .navbar a {
         float: left;
         display: block;
-        color: rgb(236, 249, 252);
+        color: rgb(214, 248, 255);
         text-align: center;
         padding: 14px 20px;
         text-decoration: none;
@@ -51,7 +51,26 @@ body {
             text-align: left;
         }
     }
+<<<<<<< HEAD
 
  map {
     display: inline;
  }
+=======
+    .box1{
+            box-sizing: border-box;
+            border: 1px solid #ffffff;
+            background-color: #ffffff;
+            width: 750px;
+            height: 1800px;
+
+ }   
+ map {
+    display: inline;
+    
+ }
+ img {
+    border: 1px solid #000000
+ }
+ 
+>>>>>>> 2c001c5fa9d9a2b4e556fa74c6f3dffcea48384a
