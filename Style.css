@@ -14,7 +14,7 @@ font-family: JetBrains Mono, sans-serif;
     .navbar a {
         float: left;
         display: block;
-        color: rgb(59, 101, 111);
+        color: rgb(226, 227, 228);
         text-align: center;
         padding: 14px 20px;
         text-decoration: none;
@@ -22,7 +22,7 @@ font-family: JetBrains Mono, sans-serif;
 
     .navbar a:hover {
         background-color: #353c3e;
-        color: black;
+        color: rgb(255, 248, 248);
     }
 
     .navbar a.icon {
