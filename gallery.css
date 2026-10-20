@@ -1,5 +1,6 @@
 body {
     background-color:#2b59a3cc;
+    margin: 0;
 }
 
 .navbar {
@@ -16,42 +17,49 @@ body {
         text-align: center;
         padding: 14px 20px;
         text-decoration: none;
+        margin: 0;
     }
 
     .navbar a:hover {
         background-color: #2c3233;
         color: black;
+        margin: 0;
     }
 
     .navbar a.icon {
         display: none;
+        margin: 0;
     }
 
     @media screen and (max-width: 600px) {
         .navbar a:not(:first-child) {
             display: none;
-             
+            margin: 0;
         }
 
         .navbar a.icon {
             float: right;
             display: block;
+            margin: 0;
         }
 
         .navbar.responsive {
             position: relative;
+            margin: 0;
         }
 
         .navbar.responsive a.icon {
             position: absolute;
             right: 0;
             top: 0;
+            margin: 0;
         }
 
         .navbar.responsive a {
             float: none;
             display: block;
             text-align: left;
+            margin: 0;
         }
     }
 
