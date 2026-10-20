@@ -2,8 +2,9 @@ body {
     background-color:#2b59a3cc;
     margin: 0;
 }
-
-.navbar {
+body {
+    margin: 0px;
+    .navbar {
         overflow: hidden;
         background-color:#394b51f7;
         margin: 0;
@@ -67,3 +68,5 @@ body {
     border: 1px solid #000000;
     max-width: 600px;
  }
+}
+
