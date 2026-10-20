@@ -4,7 +4,8 @@ body {
 
 .navbar {
         overflow: hidden;
-        background-color:#394b51f7
+        background-color:#394b51f7;
+        width: 1007px;
     }
 
     .navbar a {
@@ -14,7 +15,6 @@ body {
         text-align: center;
         padding: 14px 20px;
         text-decoration: none;
-        width: 1007px;
     }
 
     .navbar a:hover {
