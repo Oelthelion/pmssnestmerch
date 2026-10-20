@@ -34,7 +34,7 @@ body {
         margin: 0;
     }
 
-    @media screen and (max-width: 600px) (min-width: 480px) {
+    @media screen and (max-width: 600px) and (min-width: 480px) {
         .navbar a:not(:first-child) {
             display: none;
             margin: 0;
