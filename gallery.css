@@ -5,7 +5,7 @@ body {
 .navbar {
         overflow: hidden;
         background-color:#394b51f7;
-        width: 1007px;
+        margin: 0;
     }
 
     .navbar a {
