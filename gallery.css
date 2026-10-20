@@ -24,7 +24,7 @@ body {
         display: none;
     }
 
-    @media screen and (max-width: 1200px) {
+    @media screen and (max-width: 600px) {
         .navbar a:not(:first-child) {
             display: none;
              
@@ -52,11 +52,7 @@ body {
         }
     }
 
- map {
-    display: inline;
- }
-
  img {
     border: 1px solid #000000;
-    max-width: 1200px;
+    max-width: 600px;
  }
