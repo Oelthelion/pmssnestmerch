@@ -64,8 +64,15 @@ font-family: JetBrains Mono, sans-serif;
                 font-family: JetBrains Mono, sans-serif;
                 font-size: 32px;
             }
+            p {
+                text-align: center;
+                 color: #000000;
+                font-family: JetBrains Mono, sans-serif;
+                font-size: 19px;
+            }
         }   
     }
+
     .box1{
             box-sizing: border-box;
             border: 1px solid #ffffff;
@@ -74,4 +81,5 @@ font-family: JetBrains Mono, sans-serif;
             height: 1800px;
 
  }   
+
  
