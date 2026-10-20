@@ -9,7 +9,7 @@ body {
         overflow: hidden;
         background-color:#394b51f7;
         margin: 0;
-        width: 480px;
+        min-width: 480px;
         /*hahahahahhahha Margin so funny*/
     }
 
@@ -34,7 +34,7 @@ body {
         margin: 0;
     }
 
-    @media screen and (max-width: 600px) {
+    @media screen and (max-width: 600px) (min-width: 480px) {
         .navbar a:not(:first-child) {
             display: none;
             margin: 0;
