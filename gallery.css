@@ -1,5 +1,6 @@
 body {
     background-color:#2b59a3cc;
+    box-sizing: borderbox;
     margin: 0;
 }
 body {
