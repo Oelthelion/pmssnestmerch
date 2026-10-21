@@ -81,5 +81,9 @@ font-family: JetBrains Mono, sans-serif;
             height: 1800px;
 
  }   
+ sub {
+    font-size: 0.01px;
+    color:rgb(92, 124, 155);
+ }
 
  
