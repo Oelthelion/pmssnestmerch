@@ -80,10 +80,13 @@ font-family: JetBrains Mono, sans-serif;
             width: 750px;
             height: 1800px;
 
- }   
- sub {
+ }
+ div {
+    sub {
     font-size: 0.01px;
     color:rgb(92, 124, 155);
  }
+ }   
+ 
 
  
